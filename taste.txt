@@ -1,1 +1,1 @@
-SALAM
+using namespace std; 
